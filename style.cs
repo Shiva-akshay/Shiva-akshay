@@ -90,7 +90,7 @@ nav .menu-btn,
 .navbar .menu .cancel-btn{
   position: absolute;
   color: #fff;
-  right: 40px;
+  right: 30px;
   top: 20px;
   font-size: 20px;
   cursor: pointer;
